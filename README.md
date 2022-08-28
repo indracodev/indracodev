@@ -1,3 +1,4 @@
+<img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40"/>
 <h1 align="center">We are IndracoDev</h1>
 <h3 align="center">Beginning in 1971 with a warehouse in Sumatra by our forefathers, we have been continuing to thrive and expand into several advanced manufacturing facilities across Indonesia and Singapore</h3>
 
@@ -9,8 +10,11 @@
 
 - 📫 How to reach me **indracodev@gmail.com**
 
+- ⚡ Fun fact **we strive to innovate in the ever-changing industry**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://instagram.com/indracostore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="indracostore" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

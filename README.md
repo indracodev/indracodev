@@ -1,4 +1,4 @@
-<img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40"/>
+<img align="center" src="https://indraco.com/assets/img/logo-baru.svg" alt="apachecordova"/>
 <h1 align="center">We are IndracoDev</h1>
 <h3 align="center">Beginning in 1971 with a warehouse in Sumatra by our forefathers, we have been continuing to thrive and expand into several advanced manufacturing facilities across Indonesia and Singapore</h3>
 

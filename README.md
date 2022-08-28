@@ -1,5 +1,5 @@
 <div align="center">
-<img align="center" src="https://indraco.com/assets/img/logo-baru.svg"/>
+<img align="center" src="https://indraco.com/assets/img/logo-gray.png"/>
 </div>
 <h1 align="center">We are IndracoDev</h1>
 <h3 align="center">Beginning in 1971 with a warehouse in Sumatra by our forefathers, we have been continuing to thrive and expand into several advanced manufacturing facilities across Indonesia and Singapore</h3>

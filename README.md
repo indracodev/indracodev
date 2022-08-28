@@ -1,7 +1,7 @@
 <div align="center">
 <img align="center" src="https://indraco.com/assets/img/logo-baru.svg"/>
 </div>
-<h1 align="center">We are IndracoDev<img align="center" src="https://indraco.com/assets/img/logo-baru.svg"/></h1>
+<h1 align="center">We are IndracoDev</h1>
 <h3 align="center">Beginning in 1971 with a warehouse in Sumatra by our forefathers, we have been continuing to thrive and expand into several advanced manufacturing facilities across Indonesia and Singapore</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=indracodev&label=Profile%20views&color=0e75b6&style=flat" alt="indracodev" /> </p>
